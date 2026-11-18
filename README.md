@@ -37,9 +37,8 @@ recommendation_system/
 ├── requirements.txt     # Project dependencies
 ├── friendfinder.db      # SQLite database (generated)
 │
-├── screenshots/
-│   ├── home.png
-│   └── suggestions.png
+|── home.png
+│── suggestions.png
 │
 └── README.md
 ```
